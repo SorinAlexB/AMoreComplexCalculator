@@ -1,1 +1,2 @@
 # AMoreComplexCalculator
+This is an update to the last calculator ( a primitive one ) that I've created some months ago. This new calculator has a lot of functions and mainly from <math.h> but also some custom functions. It is built in C and it's meant to be helpfull while you need help on trigonometry or when you just need to use a calculator. Curently it doesn't have a GUI so mainly it will operate in the console. 
